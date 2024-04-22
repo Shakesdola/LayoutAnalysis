@@ -2,5 +2,5 @@ path: D:\Codes\LittleTest
 train: images/train 
 val: images/val  
 
-nc: 1
-names: ['decoration']
+nc: 2
+names: ['decoration', 'text_area']
