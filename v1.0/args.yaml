@@ -103,4 +103,4 @@ erasing: 0.4
 crop_fraction: 1.0
 cfg: null
 tracker: botsort.yaml
-save_dir: runs/segment/train
+save_dir: /content/mydrive/MyDrive/image_classification/v1.0/runs/segment/train
