@@ -22,3 +22,7 @@ format: <class_index> <x1> <y1> ... (they are normalized (0~1) by X/W, Y/H.
 
 【Part B】
 For text lines and initial capital segmentatioin...
+
+
+【Part C】
+Adjust models to get better results...
