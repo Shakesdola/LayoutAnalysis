@@ -2,6 +2,7 @@
 For Challenge 3.
 
 【Part A】
+For decorations and text area.
 1. Preprocessing
 From groundtruth, decoration:(255,0,0); text_area:(255,255,0).
 
