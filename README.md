@@ -1,6 +1,8 @@
 # LayoutAnalysis
 For Challenge 3.
 
+Colab: https://colab.research.google.com/drive/1yfSLtSZYp8TQJdX5pLjZUcZncG_rf1DX?usp=sharing
+Google drive with data: https://drive.google.com/drive/folders/13eXCmo8-EKIOvTUKDMxOoj2ZYhuQ_X0I?usp=drive_link
 【Part A】
 For decorations and text area.
 1. Preprocessing
